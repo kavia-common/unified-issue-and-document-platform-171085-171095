@@ -1,0 +1,4 @@
+{
+    "command": "npm run dev -- -p <port> -H <host>",
+    "working_directory": "/home/kavia/workspace/code-generation/unified-issue-and-document-platform-171085-171095/frontend_webapp"
+}
